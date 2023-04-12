@@ -46,4 +46,4 @@ The results are discussed in a detailed manner in the report. You may find them 
 
 ## Acknowledgements
 
-I sincerely thank my course instructor Prof. Mitesh Khapra for the in-depth lectures and the vast amount of concepts that he covered. I also thank the course TAs for the help in understanding the concepts and debugging the code from the tutorials. I understand that I may have been inspired by the code of the previous year's assignments. I have tried to understand the concepts and implement them from scratch. I apologise for not citing the code in the report.
+I sincerely thank my course instructor Prof. Mitesh Khapra for the in-depth lectures and the vast amount of concepts that he covered. I also thank the course TAs for the help in understanding the concepts and debugging the code from the tutorials.
