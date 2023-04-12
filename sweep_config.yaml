@@ -1,0 +1,35 @@
+name: inaturalist_pytorch
+method: bayes
+metric:
+  name: val_acc
+  goal: maximize
+parameters:
+  n_filters:
+    values:
+      - 32
+      - 64
+      - 128
+  activation:
+    values:
+      - relu
+      - gelu
+      - silu
+      - mish
+  filter_organization:
+    values:
+      - same
+      - double
+      - half
+  data_augmentation:
+    values:
+      - true
+      - false
+  batch_normalization:
+    values:
+      - true
+      - false
+  dropout:
+    values:
+      - 0.2
+      - 0.3
+      - 0.1
